@@ -2,8 +2,11 @@
 An Angular frontend project containing the user-interface for a company to manage projects, clients, time and employees
 
 ## Installation
-Make sure you have git installed by running the following command:
-
+Install all the dependancies:
 ```
-git -v
+yarn install
+```
+Then run the following to run the application:
+```
+yarn dev
 ```
